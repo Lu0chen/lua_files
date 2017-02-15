@@ -11,3 +11,4 @@ a = io.read ("*number")
 fact(a)
 
 _asd = 12
+
